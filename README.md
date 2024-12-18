@@ -1,8 +1,9 @@
 # 💫 About Me
 👩‍💻 I'm a graduate Data Engineer | Analyst from ENSA [National School of Applied Sciences]<br>
 🌱 I'm a student @ 1337 coding school | 42 Network | UM6P<br>
-🔭 I’m currently working on a: Gaming web app using NextJs, Django & PostgreSql<br>
+🔭 I’m currently working on a: Financial Data Analysis project<br>
 💯 Favorite programming language : Python<br>
+
 
 ![isidki's 42 stats](https://badge.mediaplus.ma/darkgray/isidki)
 # 🌐 Socials
@@ -15,8 +16,6 @@
 
 [![Imane Sidki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imanesidki&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imanesidki&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://visitcount.itsvg.in/api?id=imane-sidki&icon=0&color=0)](https://visitcount.itsvg.in)
 
