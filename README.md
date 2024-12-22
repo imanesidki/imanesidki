@@ -1,6 +1,6 @@
 # 💫 About Me
-👩‍💻 I'm a graduate Data Engineer | Analyst from ENSA [National School of Applied Sciences]<br>
-🌱 I'm a student @ 1337 coding school | 42 Network | UM6P<br>
+👩🏻‍🎓 I'm a graduate Data Engineer | Analyst from ENSA [National School of Applied Sciences]<br>
+👩🏻‍💻 I'm a student @ 1337 coding school | 42 Network | UM6P<br>
 🔭 I’m currently working on a: Financial Data Analysis project<br>
 💯 Favorite programming language : Python<br>
 
