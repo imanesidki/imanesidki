@@ -13,13 +13,47 @@
 <br>🔗 Let's connect !!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imane-sidki) 
 # 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c++&logoColor=white) ![NextJs](https://img.shields.io/badge/nextjs-%234ea94b?style=for-the-badge&logo=next&logoColor=white) ![Django](https://img.shields.io/badge/django-%10211c.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-%23ED8B00.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgrSQL](https://img.shields.io/badge/postgresql-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white) and more...
+<div align="center">
+  <p style="margin: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://skillicons.dev/icons?i=bash" title="Bash" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=c" title="C" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=cpp" title="C++" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=ts" title="Typescript" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=python" title="Python" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=java" title="Java" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=css" title="CSS" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=html" title="HTML" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=react" title="React" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=django" title="Django" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=fastapi" title="Fastapi" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=flask" title="Flask" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=redis" title="Redis" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=docker" title="Docker" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=aws" title="AWS" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=gcp" title="GCP" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=git" title="Git" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=figma" title="Figma" style="width: 50px;">
+  </p>
+</div>
+
 # 📊 GitHub Stats
 
 [![Imane Sidki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imanesidki&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-
-[![](https://visitcount.itsvg.in/api?id=imane-sidki&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
+![](https://komarev.com/ghpvc/?username=imanesidki&style=flat&color=ff69b4&base=1500)
 
 Feel free to explore, contribute, or drop me a message! Excited about the possibilities that lie ahead and looking forward to connecting with fellow developers and data enthusiasts.<br><br>
 Happy coding! 🚀
