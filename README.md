@@ -1,18 +1,21 @@
-# 💫 About Me
-👩🏻‍🎓 I'm a graduate Data Engineer | Analyst from ENSA [National School of Applied Sciences]<br>
-👩🏻‍💻 I'm a student @ 1337 coding school | 42 Network | UM6P<br>
-📊 I’m currently working on a: Financial Data Analysis project<br>
+<div>
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!++I'm+Imane;Welcome+to+my+profile!&font=iceland&size=27&pause=500&color=D1B0F7&center=true&width=500&height=70">
+</p>
+</div>
+
+## 💫 About Me
+👩🏻‍🎓 I'm a graduate Software & Data Engineer from ENSA [National School of Applied Sciences]<br>
+👩🏻‍💻 I'm a member @ 1337 coding school | 42 Network | UM6P<br>
 💯 Favorite programming language : Python<br>
  <br>
 🔭 Check out my portfolio [imane.dev](https://imane.dev)
 <br>
-<br/>
-![isidki's 42 stats](https://badge.mediaplus.ma/darkgray/isidki)
-# 🌐 Socials
+## 🌐 Socials
 📫 How to reach me: [sidki.imane10@gmail.com](mailto:sidki.imane10@gmail.com)
 <br>🔗 Let's connect !!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imane-sidki) 
-# 💻 Tech Stack
+## 💻 Tech Stack
 <div align="center">
   <p style="margin: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://skillicons.dev/icons?i=bash" title="Bash" style="width: 50px;">
@@ -48,7 +51,7 @@
   </p>
 </div>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 [![Imane Sidki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imanesidki&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
