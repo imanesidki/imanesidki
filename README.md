@@ -6,7 +6,6 @@
 
 ## 💫 About Me
 👩🏻‍🎓 I'm a Software & Data Engineer<br>
-💯 Favorite programming language : Python<br>
  <br>
 ## 🌐 Socials
 📫 How to reach me: [sidki.imane10@gmail.com](mailto:sidki.imane10@gmail.com)
